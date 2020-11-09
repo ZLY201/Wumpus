@@ -14,3 +14,5 @@ Wumpus世界的PEAS描述
     - 当智能体撞到墙时，它感受到撞击。
     - 当 wumpus 被杀死时，它发出洞穴内任何地方都可感知到的悲惨嚎叫。
 - 以5个符号的列表形式将感知信息提供给智能体，例如 (stench, breeze, none, none, none) 。
+
+Have a quick start [here](https://zly201.github.io/Wumpus/).
